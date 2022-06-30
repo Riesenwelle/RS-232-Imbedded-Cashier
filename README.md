@@ -11,3 +11,4 @@ Simple cashier based on IMX6, scanning barcode, imbedded Linux with ARM architec
 > + 使用SQLite3数据库进行数据的存取  
 > + 由于实验箱自带1-9硬按键输入，软键盘中没有设置数字1-9  
 > + 答案是 HITWH 的嵌入式课设
+> + 详见 master 分支  
