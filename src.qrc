@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="sky">bluesky.jpg</file>
+        <file alias="hit">hit.png</file>
+    </qresource>
+</RCC>
